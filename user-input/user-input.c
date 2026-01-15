@@ -43,8 +43,8 @@ int main()
 
 // Windows:
 // Install gcc on your Linux distribution if needed via Terminal: sudo apt / dnf install gcc -y (pacman -S gcc -y for Arch based distributions)
-// Make an executable on Linux for Windows via gcc utility: x86_64-w64-mingw32-gcc Output.c
+// Make an executable on Linux for Windows via gcc utility: x86_64-w64-mingw32-gcc user-input.c
 
 // macOS:
-// Make an executable for macOS after downloading it to your Mac via Terminal: gcc Output.c -o Output
+// Make an executable for macOS after downloading it to your Mac via Terminal: gcc user-input.c -o user-input
 // Make that file executable on macOS via Terminal if it is not already: chmod +x Output
