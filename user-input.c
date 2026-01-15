@@ -27,7 +27,7 @@ int main()
 
     // Print the user's input 
 
-    printf("%s", user_input);
+    printf("%s\n", user_input);
 
     // This indicates that the program has run sucessfully.
 
