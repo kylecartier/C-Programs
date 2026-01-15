@@ -46,5 +46,4 @@ int main()
 // Make an executable on Linux for Windows via gcc utility: x86_64-w64-mingw32-gcc user-input.c
 
 // macOS:
-// Make an executable for macOS after downloading it to your Mac via Terminal: gcc user-input.c -o user-input
-// Make that file executable on macOS via Terminal if it is not already: chmod +x Output
+// Make an executable for macOS after downloading it to your Mac via Terminal: gcc user-input.c -o user-input or just run the program
