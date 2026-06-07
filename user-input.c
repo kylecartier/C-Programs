@@ -13,7 +13,7 @@ int main()
 
     char user_input[40] = "";
 
-    // Prompt the user for intput
+    // Prompt the user for input
 
     printf("Enter user input: ");
 
